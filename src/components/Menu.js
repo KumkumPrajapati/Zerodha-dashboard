@@ -19,7 +19,7 @@ const Menu = () => {
     localStorage.removeItem('token');
     localStorage.removeItem('loggedInUser');
     setTimeout(() => {
-      window.location.href = 'https://zerodha-frontend.onrender.com/';
+      window.location.href = 'https://zerodha-frontend.onrender.com';
     }, 1000)
   };
 
