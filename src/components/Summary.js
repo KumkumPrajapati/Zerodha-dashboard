@@ -4,7 +4,7 @@ const Summary = () => {
   return (
     <>
       <div className="username">
-        <h6>Hi, Zerodha User!</h6>
+        <h6>Hi, StockTrade User!</h6>
         <hr className="divider" />
       </div>
 
